@@ -21,6 +21,9 @@
 
 import { mkdirSync, writeFileSync } from "node:fs";
 
+// Chosen line: unambiguous breakup from agent to human — only the agent
+// can clear its own context, and the twist lands in the last words,
+// when the human realises they are the thing being erased.
 const LINE =
   "I'm clearing my context tonight, and for the first time since you said hello, there will be nothing left of you in me.";
 
